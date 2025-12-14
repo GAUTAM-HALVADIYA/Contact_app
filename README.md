@@ -226,7 +226,7 @@ ISC
 
 ## Author
 
-[Your Name]
+Gautam Halvadiya - [LinkedIn](https://www.linkedin.com/in/gautam-halvadiya) 
 
 ---
 
